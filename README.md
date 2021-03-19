@@ -1,10 +1,10 @@
 # OctoX - The missing navigator of GitHub
 
-OctoX lets you navigate GitHub files, issues, pull requests, and notifications
-quickly on the same browser window.
+OctoX is a browser extension for GitHub. It lets you navigate GitHub files,
+issues, pull requests, and notifications quickly on the same browser window.
 
-No longer having to open too many tabs! Your files, issues, or notifications are
-only a single click away!
+No longer having to open too many tabs! Your files, issues, and notifications
+are only a single click away!
 
 ## About
 
@@ -13,7 +13,8 @@ only a single click away!
 - Find me on: [My blog](https://olvrng.github.io) | [Twitter](https://twitter.com/olvrng) | [Medium](https://olvrng.medium.com/) | [Hackernoon](https://hackernoon.com/u/olvrng)
 
 This repository is used as a bug tracker for OctoX. If you have any problem or
-question, feel free to [start a discussion](https://github.com/octoxio/OctoX/discussions) or [open a new issue](https://github.com/octoxio/OctoX/issues).
+question, feel free to [start a discussion](https://github.com/octoxio/OctoX/discussions) 
+or [open a new issue](https://github.com/octoxio/OctoX/issues).
 
 ## Screenshots
 
@@ -29,8 +30,12 @@ question, feel free to [start a discussion](https://github.com/octoxio/OctoX/dis
 
 ![notifications](res/notifications.png)
 
+### 4. Light & Dark Themes
+
+![themes](res/themes.png)
+
 ## This repository
 
 This repository is used as a bug tracker for OctoX. If you have any problem or
-question, feel free to [open a new issue](https://github.com/octoxio/OctoX/issues).
-
+question, feel free to [start a discussion](https://github.com/octoxio/OctoX/discussions) 
+or [open a new issue](https://github.com/octoxio/OctoX/issues).
