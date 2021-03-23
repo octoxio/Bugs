@@ -14,13 +14,14 @@ are only a single click away!
 
 ## About
 
-- Website: [octox.io](http://octox.io) | [twitter.com/octox](https://twitter.com/octox)
+- Website: [octox.io](http://octox.io) | [twitter.com/octox](https://twitter.com/octoxio)
 - Author: [olvrng](https://olvrng.github.io) | [twitter.com/olvrng](https://twitter.com/olvrng)
 - Find me on: [My blog](https://olvrng.github.io) | [Twitter](https://twitter.com/olvrng) | [Medium](https://olvrng.medium.com/) | [Hackernoon](https://hackernoon.com/u/olvrng)
 
-This repository is used as a bug tracker for OctoX. If you have any problem or
-question, feel free to [start a discussion](https://github.com/octoxio/OctoX/discussions) 
-or [open a new issue](https://github.com/octoxio/OctoX/issues).
+This repository is used as a bug tracker for OctoX. If you have any problems or
+questions or want to suggest a feature, feel free to [start a
+discussion](https://github.com/octoxio/OctoX/discussions) or [open a new
+issue](https://github.com/octoxio/OctoX/issues).
 
 ## Screenshots
 
@@ -40,8 +41,21 @@ or [open a new issue](https://github.com/octoxio/OctoX/issues).
 
 ![themes](res/themes.png)
 
+## About your data
+
+I have no interest in your data at all. As developers, we all respect privacy
+and data. So no tracking code. No Google Analytics. Nothing is sent out of your
+browser.
+
+When you log in for more advanced features, only your GitHub username is used
+for checking the license.
+
 ## This repository
 
-This repository is used as a bug tracker for OctoX. If you have any problem or
-question, feel free to [start a discussion](https://github.com/octoxio/OctoX/discussions) 
-or [open a new issue](https://github.com/octoxio/OctoX/issues).
+This repository is used as a bug tracker for OctoX. If you have any problems or
+questions or want to suggest a feature, feel free to [start a
+discussion](https://github.com/octoxio/OctoX/discussions) or [open a new
+issue](https://github.com/octoxio/OctoX/issues).
+
+Hope you enjoy the extension!
+<br>－[Oliver N](https://twitter.com/olvrng)
