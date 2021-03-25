@@ -8,9 +8,9 @@ are only a single click away!
 
 ## Get the extension
 
-| [![](res/chrome.svg)](https://chrome.google.com/webstore/detail/octox-github-navigator/hbobgffpocdikbnfblapkhokgfmpojmm)<br> Chrome | [![](res/firefox.svg)](https://addons.mozilla.org/en-US/firefox/addon/octox/)<br> Firefox |
-| :---: | :---: |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download](https://chrome.google.com/webstore/detail/octox-github-navigator/hbobgffpocdikbnfblapkhokgfmpojmm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download](https://addons.mozilla.org/en-US/firefox/addon/octox/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| [![](res/firefox.svg)](https://addons.mozilla.org/en-US/firefox/addon/octox/)<br> Firefox | [![](res/chrome.svg)](https://chrome.google.com/webstore/detail/octox-github-navigator/hbobgffpocdikbnfblapkhokgfmpojmm)<br> Chrome | [![](res/edge.svg)](https://microsoftedge.microsoft.com/addons/detail/octox-github-navigator/gaghfajgbgpfpbpdjplbbhcmefboacei)<br> Edge |
+| :---: | :---: | :---: |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download](https://addons.mozilla.org/en-US/firefox/addon/octox/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download](https://chrome.google.com/webstore/detail/octox-github-navigator/hbobgffpocdikbnfblapkhokgfmpojmm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download](https://microsoftedge.microsoft.com/addons/detail/octox-github-navigator/gaghfajgbgpfpbpdjplbbhcmefboacei) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 ## About
 
