@@ -37,7 +37,11 @@ issue](https://github.com/octoxio/OctoX/issues).
 
 ![notifications](res/notifications.png)
 
-### 4. Light & Dark Themes
+### 4. Fuzzy search
+
+![search](res/search.png)
+
+### 5. Light & Dark Themes
 
 ![themes](res/themes.png)
 
